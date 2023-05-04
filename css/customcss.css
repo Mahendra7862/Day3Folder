@@ -68,7 +68,8 @@ margin-top: 0;
 }
 .subcont1{
    padding: 10px 10px 10 px 10px;
-    background-color: rgb(89, 55, 110);
+    border: 1px solid white;
+    padding: 10px 10px 10px 10px;
     border-radius: 20px;
 }
 
@@ -195,5 +196,6 @@ input{
 }
 label{
     color:black;
+    size: 14px;
 }
 /* contact ends here*/
